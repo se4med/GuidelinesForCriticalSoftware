@@ -1,4 +1,4 @@
-## Guidelines for the development of a critical software under emergency
+# Guidelines for the development of a critical software under emergency
 
 During the COVID-19 pandemic, around the middle of March 2020, we have been developing a simplified mechanical lung  ventilator,  called  [MVM](http://mvm.care/)  (Mechanical  Ventilator  Milano),  to answer  the  high  request  of  ventilators  for  Acute  Respiratory Distress  Syndrome  (ARDS)  in  intensive  care  units.  The ventilator is now produced and certified for use in the EU, USA, and Canada. In this experience, which - software side - involved more  than  100  volunteer  researchers  towards  software certification at the extreme of their strength, we collected a set of lessons learned. 
 From this experience, we have synthesised a set of guidelines that might help similar projects in the future.
@@ -9,7 +9,7 @@ In this page we collect all the material used in order to produce guiedlines for
 - Guidelines
 - Validation of guidelines via questionnaires and interviews
 
-### Lessons Learned
+## Lessons Learned
 
 | Lessson learned | Description |
 | :--- | :--- |
@@ -37,7 +37,7 @@ In this page we collect all the material used in order to produce guiedlines for
 |**LL.9.3** Advantages of CI tools in community projects|As MVM has been a community project, where a lot of people have worked at the same time on the same system, CI tools have proved to be crucial for maintaining under control the modifications made by all the developers.|
 |**LL.10.1** Integration testing for SIMDs|It is challenging to develop and validate systems that integrate hardware, software, and mechanics by distributed teams. Often, real hardware is needed for testing the software that is affected or affecting a piece of hardware. Software-in-the-loop simulation requires a special setting with professional simulation tools and an accurate hardware model, which is not always available and reliable.|
 
-### Validation of lessons learned
+## Validation of lessons learned
 
 For each lesson learned we have asked: 
 - How do you agree or disagree with the lesson learned?
@@ -50,7 +50,7 @@ The obtained results are summurized in the following graphs:
 ![Accordance](assets/images/accordance.png)
 ![Importance](assets/images/importance.png)
 
-### Guidelines
+## Guidelines
 
 | Guideline | Description | Rationale |
 | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ The obtained results are summurized in the following graphs:
 |**GL23**| While guaranteeing the quality for the whole system, focus the testing activities to safetycritical components as required by the standard. | Safety critical components are those that require major attention. The parts of the system that are not critical can follow classic quality management recommendations.|
 |**GL24**| When possible, use simulators and/or emulators, but plan for an integration, system, and acceptance testing phase. | Simulators and emulators can speed up the development and validation, but they are often limited and integration, system, and acceptance testing is unavoidable. |
 
-### Validation of guidelines
+## Validation of guidelines
 
 For each lesson learned we have asked: 
 - How do you agree or disagree with this guideline?
