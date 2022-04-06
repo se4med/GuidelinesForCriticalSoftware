@@ -40,7 +40,7 @@ In this page we collect all the material used in order to produce guiedlines for
 ### Validation of lessons learned
 
 For each lesson learned we have asked: 
-- Do you agree with the lesson learned?
+- How do you agree or disagree with the lesson learned?
   - Possible answers: Strongly Agree - Agree - Neither agree nor disagree (I don't mind these things) - Disagree - Strongly Disagree
 - In your opinion, how important is the lesson learned?
   - Possible answers: 1 (not at all important) - 2 - 3 - 4 - 5 (very important)
@@ -78,8 +78,13 @@ The obtained results are summurized in the following graphs:
 |**GL23**| While guaranteeing the quality for the whole system, focus the testing activities to safetycritical components as required by the standard. | Safety critical components are those that require major attention. The parts of the system that are not critical can follow classic quality management recommendations.|
 |**GL24**| When possible, use simulators and/or emulators, but plan for an integration, system, and acceptance testing phase. | Simulators and emulators can speed up the development and validation, but they are often limited and integration, system, and acceptance testing is unavoidable. |
 
+### Validation of guidelines
 
+For each lesson learned we have asked: 
+- How do you agree or disagree with this guideline?
+  - Possible answers: Strongly Agree - Agree - Neither agree nor disagree (I don't mind these things) - Disagree - Strongly Disagree
 
+The obtained results are summurized in the following graph:
 
 
 <!--  Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
