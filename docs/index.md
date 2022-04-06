@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Guidelines for the development of a critical software under emergency
 
-You can use the [editor on GitHub](https://github.com/se4med/GuidelinesForCriticalSoftware/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+During the COVID-19 pandemic, around the middle of March 2020, we have been developing a simplified mechanical lung  ventilator,  called  [MVM](http://mvm.care/)  (Mechanical  Ventilator  Milano),  to answer  the  high  request  of  ventilators  for  Acute  Respiratory Distress  Syndrome  (ARDS)  in  intensive  care  units.  The ventilator is now produced and certified for use in the EU, USA, and Canada. In this experience, which - software side - involved more  than  100  volunteer  researchers  towards  software certification at the extreme of their strength, we collected a set of lessons learned. 
+From this experience, we have synthesised a set of guidelines that might help similar projects in the future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this page we collect all the material used in order to produce guiedlines for the development of a critical software under emergency:
+- Lessons learned from the MVM project which have been proposed in our previous work: A. Bombarda et al., "Lessons Learned from the Development of a Mechanical Ventilator for COVID-19," 2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE), 2021, pp. 24-35, doi: [10.1109/ISSRE52982.2021.00016](https://ieeexplore.ieee.org/document/9700322)
+- Validation of lessons learned executed in the context of two courses for the Italian engineering society. 
+- Guidelines
+- Validation of guidelines via questionnaires and interviews
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/se4med/GuidelinesForCriticalSoftware/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--  Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
