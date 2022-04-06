@@ -12,7 +12,7 @@ In this page we collect all the material used in order to produce guiedlines for
 ### Lessons Learned
 
 | Lessson learned | Description |
-| --- | --- |
+| :--- | :--- |
 | **LL.1.1** IEC 62304 and V-Model| The development process was strongly influenced by the IEC 62304 standard, so the V-model, although not mandated, is the “best fit” with regulatory requirements as it produces the necessary deliverables required when seeking regulatory approval. |
 | **LL.1.2** Use of agile practices| However, it was necessary to integrate the V-model with agile practices, to combine efficiency, quality, maintainability, and flexibility. |
 | **LL.2.1** Coordination effort| The project was successful but there was a quite huge overhead of coordination, with various calls every day from the morning till evening. The coordination of the team should not be underestimated. Open-source software development could be a good development experience from which projects of this nature can learn. |
@@ -52,7 +52,7 @@ The obtained results are summurized in the following graphs:
 
 ### Guidelines
 | Guideline | Description | Rationale |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | **GL1** Plan-driven/predictive and agile integration| Integrate plan-driven/predictive processes with agile practices, to combine rigorousness with efficiency and flexibility. | The idea is to benefit from the good characteristics of predictive and agile processes.|
 | **GL2** Review process | Define a clear review process to identify the activities that should be performed. | It is important to clearly define the review process to speed up the development. |
 | **GL3** Documentation templates | Reuse and/or adapt existing templates, when available, for producing the documentation required by certification standards and processes, otherwise produce precise templates to be adopted by the entire project. | To speed up the development while guaranteeing quality, it is important to have precise templates; better if there are already established templates that can be reused. |
