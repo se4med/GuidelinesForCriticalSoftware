@@ -51,6 +51,7 @@ The obtained results are summurized in the following graphs:
 ![Importance](assets/images/importance.png)
 
 ### Guidelines
+
 | Guideline | Description | Rationale |
 | :--- | :--- | :--- |
 | **GL1** Plan-driven/predictive and agile integration| Integrate plan-driven/predictive processes with agile practices, to combine rigorousness with efficiency and flexibility. | The idea is to benefit from the good characteristics of predictive and agile processes.|
