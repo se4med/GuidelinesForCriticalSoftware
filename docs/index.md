@@ -39,4 +39,12 @@ In this page we collect all the material used in order to produce guiedlines for
 
 ### Validation of lessons learned
 
+For each lesson learned we have asked: 
+- Do you agree with the lesson learned?
+  - Possible answers: Strongly Agree | Agree | Neither agree nor disagree (I don't mind these things) | Disagree | Strongly Disagree
+- In your opinion, how important is the lesson learned?
+  - Possible answers: 1 (very important) | 2 | 3 | 4 | 5 (not at all important)
+
+The obtained results are summurized in the following graphs:
+
 <!--  Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
