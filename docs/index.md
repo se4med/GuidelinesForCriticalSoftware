@@ -41,9 +41,9 @@ In this page we collect all the material used in order to produce guiedlines for
 
 For each lesson learned we have asked: 
 - Do you agree with the lesson learned?
-  - Possible answers: Strongly Agree | Agree | Neither agree nor disagree (I don't mind these things) | Disagree | Strongly Disagree
+  - Possible answers: Strongly Agree - Agree - Neither agree nor disagree (I don't mind these things) - Disagree - Strongly Disagree
 - In your opinion, how important is the lesson learned?
-  - Possible answers: 1 (very important) | 2 | 3 | 4 | 5 (not at all important)
+  - Possible answers: 1 (very important) - 2 - 3 - 4 - 5 (not at all important)
 
 The obtained results are summurized in the following graphs:
 
