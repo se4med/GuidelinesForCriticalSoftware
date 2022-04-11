@@ -83,7 +83,7 @@ The obtained results are summurized in the following graphs:
 
 For each lesson learned we have asked: 
 - How do you agree or disagree with this guideline?
-  - Possible answers: Strongly Agree - Agree - Neither agree nor disagree (I don't mind these things) - Disagree - Strongly Disagree
+  - Possible answers: 5 (Strongly Agree) - 4 - 3 - 2 - 1 (Strongly Disagree)
 
 The obtained results are summurized in the following graph:
 
