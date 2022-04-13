@@ -85,6 +85,15 @@ For each lesson learned we have asked:
 - How do you agree or disagree with this guideline?
   - Possible answers: 5 (Strongly Agree) - 4 - 3 - 2 - 1 (Strongly Disagree)
 
+We have created identical copies of the questionnaire and distributed to various groups of experts:
+1. experts in agile and safety-critical systems,
+2. experts in non-agile safety-critical systems, 
+3. experts in health care safety-critical systems,
+4. experts in safety-critical systems in other domains, mostly automotive,
+5. experts involved in the development of the MVM, 
+6. developers of other ventilators under emergency.
+All the answers are available here ![Answers](assets/images/guidelines.png)
+
 The obtained results are summurized in the following graph:
 
 ![Guidelines](assets/images/guidelines.png)
