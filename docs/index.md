@@ -92,11 +92,37 @@ We have created identical copies of the questionnaire and distributed to various
 4. experts in safety-critical systems in other domains, mostly automotive,
 5. experts involved in the development of the MVM, 
 6. developers of other ventilators under emergency.
-All the answers are available here ![Answers](assets/images/guidelines.png)
+
+All the answers are available [here](https://github.com/se4med/GuidelinesForCriticalSoftware/blob/main/docs/assets/docs/Guidelines%20for%20the%20development%20of%20a%20critical%20software%20under%20emergency_All%20Answers.xlsx)
 
 The obtained results are summurized in the following graph:
 
 ![Guidelines](assets/images/guidelines.png)
+
+In the following, we show for each questionnaire the graph summarizing all the answers.
+1. Experts in agile and safety-critical systems
+
+![Guidelines](assets/images/guidelines1.png)
+
+2. Experts in non-agile safety-critical systems
+
+![Guidelines](assets/images/guidelines2.png)
+
+3. Experts in health care safety-critical systems
+
+![Guidelines](assets/images/guidelines3.png)
+
+4. Experts in safety-critical systems in other domains, mostly automotive
+
+![Guidelines](assets/images/guidelines4.png)
+
+5. Experts involved in the development of the MVM
+
+![Guidelines](assets/images/guidelines5.png)
+
+6. Developers of other ventilators under emergency
+
+![Guidelines](assets/images/guidelines6.png)
 
 
 <!--  Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
